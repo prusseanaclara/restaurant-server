@@ -3,22 +3,22 @@
     {
       "id": 1,
       "nome": "arroz com feijão",
-      "preco": "R$10,00"
+      "preco": "10,00"
     },
     {
       "id": 2,
       "nome": "macarronada",
-      "preco": "R$12,00"
+      "preco": "12,00"
     },
     {
       "id": 3,
       "nome": "lasanha",
-      "preco": "R$15,00"
+      "preco": "15,00"
     },
     {
       "id": 4,
       "nome": "frango com legumes",
-      "preco": "R$10,00"
+      "preco": "10,00"
     }
   ]
 }
