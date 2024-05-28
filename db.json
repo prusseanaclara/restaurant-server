@@ -4,31 +4,31 @@
       "id": 1,
       "nome": "strogonoff de frango",
       "preco": "19,99",
-      "img": "https://www.unileverfoodsolutions.com.br/dam/global-ufs/mcos/SLA/calcmenu/recipes/BR-recipes/chicken-&-other-poultry-dishes/strogonoff-de-frango/main-header.jpg"
+      "img": "https://images.unsplash.com/photo-1716847214553-15c68ce82c94?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 2,
       "nome": "carne de panela",
       "preco": "29,99",
-      "img": "https://s2-receitas.glbimg.com/Sekdv7EdPfw90fD-CiGEhXfhTjw=/0x0:1280x800/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/C/k/FH6JwZRxe5q3bUrZASYA/carne-de-panela-com-batatas.jpg"
+      "img": "https://images.unsplash.com/photo-1716847214553-15c68ce82c94?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 3,
       "nome": "lasanha bolonhesa",
       "preco": "25,99",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMsWjMcJ4oqems2dsTnGrVr7ZPm8k50VVUAdQuaWsMfg&s"
+      "img": "https://images.unsplash.com/photo-1716847214553-15c68ce82c94?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 4,
       "nome": "parmegiana de berinjela",
       "preco": "34,99",
-      "img": "https://s2.glbimg.com/JlGjFPSOODZXrZw6Q0Bm0l9aWJc=/512x320/smart/e.glbimg.com/og/ed/f/original/2020/06/02/receita-berinjela-parmegiana.jpg"
+      "img": "https://images.unsplash.com/photo-1716847214553-15c68ce82c94?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       "id": 5,
       "nome": "fettuccine com molho",
       "preco": "29,99",
-      "img": "https://s2.glbimg.com/S3avlUZYboDchpT4dN4O4xatgpE=/620x455/e.glbimg.com/og/ed/f/original/2020/02/06/olive_garde_-_fettuccine_alfredo.jpg"
+      "img": "https://images.unsplash.com/photo-1716847214553-15c68ce82c94?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ]
 }
