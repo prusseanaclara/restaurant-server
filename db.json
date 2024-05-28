@@ -2,23 +2,28 @@
   "principais": [
     {
       "id": 1,
-      "nome": "arroz com feijão",
-      "preco": "10,00"
+      "nome": "strogonoff de frango",
+      "preco": "19,99"
     },
     {
       "id": 2,
-      "nome": "macarronada",
-      "preco": "12,00"
+      "nome": "carne de panela",
+      "preco": "29,99"
     },
     {
       "id": 3,
-      "nome": "lasanha",
-      "preco": "15,00"
+      "nome": "lasanha bolonhesa",
+      "preco": "25,99"
     },
     {
       "id": 4,
-      "nome": "frango com legumes",
-      "preco": "10,00"
+      "nome": "parmegiana de berinjela",
+      "preco": "34,99"
+    },
+    {
+      "id": 5,
+      "nome": "fettuccine com molho",
+      "preco": "29,99"
     }
   ]
 }
